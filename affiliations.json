@@ -1,0 +1,8 @@
+{
+  "schema_version": "aitwire.affiliations.v1",
+  "tenant": "scanner-synthetic",
+  "generated_at": "2026-09-04T05:22:18.879Z",
+  "count": 0,
+  "affiliations": [],
+  "aitwire_verification_token": "aitwire-verify-offsite-github-2cc5a43f10"
+}
