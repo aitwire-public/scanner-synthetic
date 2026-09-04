@@ -1,0 +1,9 @@
+{
+  "schema_version": "aitwire.authority.graph.v1",
+  "publisher": {
+    "tenant": "scanner-synthetic"
+  },
+  "status": "no_data",
+  "message": "No authority data found for this tenant.",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-2cc5a43f10"
+}
