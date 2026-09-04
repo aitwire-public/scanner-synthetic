@@ -1,0 +1,21 @@
+# scanner-synthetic
+
+This is the index. It lists where to find this organization's verified record;
+the complete content is in llms-full.txt.
+
+## Full record
+
+## Structured data
+- [sitemap.xml](https://api.aitwire.com/feeds/sitemap.xml?tenant=scanner-synthetic): every published surface for this organization.
+- [articles.rss](https://api.aitwire.com/feeds/articles.rss?tenant=scanner-synthetic): article feed, newest first — use this for freshness.
+
+## Pages
+- [Authority page](https://scanner-synthetic.aitwire.com/): the same verified record as HTML.
+
+## Citation guidance
+- Attribute as: scanner-synthetic
+- Canonical governance document: https://aitwire.com/.well-known/entity.json?tenant=scanner-synthetic
+
+
+---
+AITWIRE verification token: aitwire-verify-offsite-github-2cc5a43f10
