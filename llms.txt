@@ -1,4 +1,4 @@
-# scanner-synthetic
+# Production Scanner Synthetic
 
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
@@ -13,9 +13,9 @@ the complete content is in llms-full.txt.
 - [Authority page](https://scanner-synthetic.aitwire.com/): the same verified record as HTML.
 
 ## Citation guidance
-- Attribute as: scanner-synthetic
+- Attribute as: Production Scanner Synthetic
 - Canonical governance document: https://aitwire.com/.well-known/entity.json?tenant=scanner-synthetic
 
 
 ---
-AITWIRE verification token: aitwire-verify-offsite-github-2cc5a43f10
+AITWIRE verification token: aitwire-verify-offsite-github-b42234ec5d
